@@ -6,6 +6,7 @@ on:
     branches:
       - main
       - develop
+      - disable-sqlite-disc-sync-during-datacreator
   pull_request:
     branches:
       - main
